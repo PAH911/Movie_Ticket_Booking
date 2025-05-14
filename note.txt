@@ -1,0 +1,2 @@
+6 giá trị falsy:
+false, null, undefined, 0, NaN, '', (empty String)

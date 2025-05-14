@@ -1,0 +1,239 @@
+{
+  "common": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "search": "Tìm kiếm",
+    "home": "Trang chủ",
+    "movies": "Phim",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "support": "Hỗ trợ",
+    "language": "Ngôn ngữ",
+    "bookNow": "Đặt vé ngay",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "close": "Đóng",
+    "noData": "Không có dữ liệu",
+    "backToBooking": "Quay lại đặt vé",
+    "backToHome": "Quay về trang chủ",
+    "loading": "Đang tải..."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "fullName": "Họ tên",
+    "phone": "Số điện thoại",
+    "forgotPassword": "Quên mật khẩu?",
+    "loginSuccess": "Đăng nhập thành công!",
+    "registerSuccess": "Đăng ký thành công!",
+    "invalidCredentials": "Email hoặc mật khẩu không đúng",
+    "notHaveAccount": "Chưa có tài khoản?",
+    "haveAccount": "Đã có tài khoản?",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "requiredAccount": "Vui lòng nhập tài khoản",
+    "requiredPassword": "Vui lòng nhập mật khẩu",
+    "passwordMin": "Mật khẩu phải có ít nhất 6 ký tự",
+    "passwordNotMatch": "Mật khẩu không khớp",
+    "requiredConfirmPassword": "Vui lòng xác nhận mật khẩu",
+    "invalidEmail": "Email không hợp lệ",
+    "requiredEmail": "Vui lòng nhập email",
+    "invalidPhone": "Số điện thoại không hợp lệ",
+    "requiredPhone": "Vui lòng nhập số điện thoại",
+    "requiredFullName": "Vui lòng nhập họ tên",
+    "account": "Tài khoản"
+  },
+  "movie": {
+    "nowShowing": "Đang chiếu",
+    "comingSoon": "Sắp chiếu",
+    "bookTicket": "Đặt vé",
+    "watchTrailer": "Xem trailer",
+    "showtimes": "Lịch chiếu",
+    "selectSeats": "Chọn ghế",
+    "totalPrice": "Tổng tiền",
+    "confirmBooking": "Xác nhận đặt vé",
+    "bookingSuccess": "Đặt vé thành công!",
+    "genre": "Thể loại",
+    "actor": "Diễn viên",
+    "minutes": "phút",
+    "searchResults": "Kết quả tìm kiếm",
+    "searchingFor": "Đang tìm kiếm",
+    "noResults": "Không tìm thấy kết quả",
+    "tryDifferentSearch": "Vui lòng thử tìm kiếm khác",
+    "foundResults": "Tìm thấy {{count}} kết quả",
+    "theaterSystem": "Hệ thống rạp",
+    "theaterCluster": "Cụm rạp",
+    "selectMovie": "Chọn phim",
+    "showtime": "Suất chiếu",
+    "showtimeInfo": "Suất: ",
+    "noShowtime": "Không có suất chiếu",
+    "selectMovieFirst": "Vui lòng chọn phim trước",
+    "selectedSeats": "Ghế đã chọn",
+    "notSelected": "Chưa chọn ghế",
+    "total": "Tổng",
+    "currency": "VNĐ",
+    "sold": "Đã bán",
+    "selected": "Đang chọn",
+    "vipSeat": "Ghế VIP",
+    "regularSeat": "Ghế thường",
+    "screen": "Màn hình",
+    "loadingSeats": "Đang tải ghế...",
+    "noSeats": "Không có ghế",
+    "backToBooking": "Quay lại đặt vé",
+    "pay": "Thanh toán",
+    "paymentSuccess": "Thanh toán thành công!",
+    "selectAgain": "Vui lòng chọn lại!",
+    "close": "Đóng"
+  },
+  "payment": {
+    "paymentMethods": "Phương thức thanh toán",
+    "creditCard": "Thẻ tín dụng",
+    "momo": "MoMo",
+    "bankTransfer": "Chuyển khoản",
+    "qrCode": "Mã QR",
+    "paymentSuccess": "Thanh toán thành công!",
+    "paymentFailed": "Thanh toán thất bại. Vui lòng thử lại.",
+    "pay": "Thanh toán"
+  },
+  "user": {
+    "myTickets": "Vé của tôi",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "history": "Lịch sử đặt vé",
+    "noTickets": "Không tìm thấy vé nào",
+    "bookingManagement": "Quản lý và theo dõi vé đã đặt"
+  },
+  "admin": {
+    "dashboard": "Bảng điều khiển",
+    "manageMovies": "Quản lý phim",
+    "manageUsers": "Quản lý người dùng",
+    "manageShowtimes": "Quản lý lịch chiếu",
+    "statistics": "Thống kê",
+    "reports": "Báo cáo"
+  },
+  "footer": {
+    "description": "Hệ thống đặt vé xem phim trực tuyến hiện đại, nhanh chóng và tiện lợi.",
+    "links": "Liên kết",
+    "terms": "Điều khoản sử dụng",
+    "privacy": "Chính sách bảo mật",
+    "faq": "FAQ",
+    "connect": "Kết nối với chúng tôi",
+    "hotline": "Hotline",
+    "email": "Email"
+  },
+  "promotion": {
+    "title": "Khuyến mãi"
+  },
+  "about": {
+    "title": "Về CineGo",
+    "intro": "CineGo tự hào là một trong những hệ thống rạp chiếu phim hàng đầu Việt Nam, mang đến cho khán giả những trải nghiệm điện ảnh tuyệt vời nhất.",
+    "features": [
+      {
+        "title": "Hệ Thống Rạp Hiện Đại",
+        "desc": "CineGo sở hữu hơn 50 rạp chiếu phim trên toàn quốc, mang đến trải nghiệm xem phim chất lượng cao với công nghệ màn hình 4K và âm thanh Dolby Atmos."
+      },
+      {
+        "title": "Đội Ngũ Chuyên Nghiệp",
+        "desc": "Đội ngũ nhân viên CineGo được đào tạo bài bản, luôn sẵn sàng phục vụ và hỗ trợ khách hàng với tinh thần nhiệt tình và chuyên nghiệp."
+      },
+      {
+        "title": "Chất Lượng Dịch Vụ",
+        "desc": "Cam kết mang đến những bộ phim chất lượng cao, đa dạng thể loại và luôn cập nhật những tác phẩm điện ảnh mới nhất."
+      },
+      {
+        "title": "Vì Cộng Đồng",
+        "desc": "CineGo thường xuyên tổ chức các hoạt động từ thiện và chương trình ưu đãi đặc biệt dành cho học sinh, sinh viên."
+      }
+    ],
+    "missionTitle": "Sứ Mệnh Của CineGo",
+    "missionDesc": "CineGo cam kết mang đến cho khán giả Việt Nam những trải nghiệm điện ảnh đẳng cấp quốc tế, góp phần phát triển văn hóa giải trí và thúc đẩy ngành công nghiệp điện ảnh nước nhà."
+  },
+  "promotions": {
+    "title": "Khuyến mãi nổi bật tại CineGo",
+    "list": [
+      {
+        "title": "Mua 2 tặng 1",
+        "desc": "Mua 2 vé xem phim bất kỳ tại CineGo, tặng ngay 1 vé miễn phí cho bạn bè hoặc người thân.",
+        "time": "Áp dụng đến 30/06/2025"
+      },
+      {
+        "title": "Giảm giá 30% vé VIP",
+        "desc": "Thưởng thức trải nghiệm phòng chiếu VIP với giá ưu đãi chỉ còn 70%.",
+        "time": "Áp dụng từ thứ 2 đến thứ 5 hàng tuần"
+      },
+      {
+        "title": "Combo bắp nước chỉ 49K",
+        "desc": "Mua vé online tại CineGo, nhận ngay combo bắp rang + nước ngọt với giá chỉ 49.000đ.",
+        "time": "Áp dụng toàn hệ thống CineGo"
+      }
+    ]
+  },
+  "support": {
+    "title": "Hỗ trợ khách hàng CineGo",
+    "faqs": [
+      {
+        "q": "Làm thế nào để đặt vé trực tuyến tại CineGo?",
+        "a": "Bạn chỉ cần đăng nhập, chọn phim, suất chiếu và ghế ngồi, sau đó thanh toán online hoặc tại rạp. Vé sẽ được gửi về email hoặc tài khoản CineGo của bạn."
+      },
+      {
+        "q": "Tôi có thể hủy vé đã đặt không?",
+        "a": "Bạn có thể hủy vé trước giờ chiếu ít nhất 2 tiếng. Phí hủy vé sẽ được tính theo chính sách của CineGo."
+      },
+      {
+        "q": "Có ưu đãi cho học sinh, sinh viên không?",
+        "a": "CineGo có chương trình ưu đãi đặc biệt cho học sinh, sinh viên với giá vé giảm 20% khi xuất trình thẻ hợp lệ tại quầy vé."
+      },
+      {
+        "q": "Tôi gặp sự cố khi thanh toán, phải làm sao?",
+        "a": "Vui lòng liên hệ hotline 1900 1234 hoặc email support@cinego.vn để được hỗ trợ nhanh nhất."
+      },
+      {
+        "q": "Làm thế nào để trở thành thành viên CineGo?",
+        "a": "Bạn có thể đăng ký tài khoản miễn phí trên website hoặc app CineGo để tích điểm và nhận nhiều ưu đãi."
+      }
+    ],
+    "hotline": "Hotline:",
+    "email": "Email:",
+    "chat": "Chat trực tuyến trên website CineGo"
+  },
+  "myTickets": {
+    "title": "Vé của tôi",
+    "subtitle": "Quản lý và theo dõi vé đã đặt",
+    "noTicket": "Bạn chưa có vé nào",
+    "bookNow": "Đặt vé ngay",
+    "session": "Suất chiếu",
+    "seat": "Ghế",
+    "total": "Tổng tiền",
+    "bookingDate": "Ngày đặt",
+    "cancel": "Hủy vé",
+    "confirmCancelTitle": "Xác nhận hủy vé?",
+    "confirmCancelDesc": "Bạn có chắc chắn muốn hủy vé cho phim {{movie}}? Hành động này không thể hoàn tác.",
+    "confirmCancelNo": "Không",
+    "confirmCancelYes": "Hủy vé",
+    "cancelSuccess": "Hủy vé thành công!"
+  },
+  "movieDetail": {
+    "error": "Lỗi tải dữ liệu",
+    "notFound": "Không tìm thấy thông tin phim.",
+    "releaseDate": "Ngày khởi chiếu",
+    "trailer": "Xem Trailer",
+    "selectTheater": "Chọn rạp & suất chiếu",
+    "theaterSystem": "Hệ thống rạp",
+    "theaterCluster": "Cụm rạp",
+    "noCluster": "Không có cụm rạp",
+    "noShowtime": "Không có suất chiếu"
+  },
+  "listMovie": {
+    "loading": "Đang tải phim...",
+    "error": "Lỗi tải danh sách phim",
+    "errorDefault": "Không thể tải danh sách phim.",
+    "nowShowing": "PHIM ĐANG CHIẾU",
+    "pagePrev": "←",
+    "pageNext": "→"
+  },
+  "bestMovie": {
+    "title": "PHIM ĐÁNH GIÁ CAO"
+  }
+}

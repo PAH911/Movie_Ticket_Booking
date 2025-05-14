@@ -1,0 +1,239 @@
+{
+  "common": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "search": "Search",
+    "home": "Home",
+    "movies": "Movies",
+    "about": "About",
+    "contact": "Contact",
+    "support": "Support",
+    "language": "Language",
+    "bookNow": "Book Now",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "noData": "No data",
+    "backToBooking": "Back to Booking",
+    "backToHome": "Back to Home",
+    "loading": "Loading..."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "forgotPassword": "Forgot Password?",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Registration successful!",
+    "invalidCredentials": "Invalid email or password",
+    "notHaveAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "login": "Login",
+    "register": "Register",
+    "requiredAccount": "Please enter your account",
+    "requiredPassword": "Please enter your password",
+    "passwordMin": "Password must be at least 6 characters",
+    "passwordNotMatch": "Passwords do not match",
+    "requiredConfirmPassword": "Please confirm your password",
+    "invalidEmail": "Invalid email address",
+    "requiredEmail": "Please enter your email",
+    "invalidPhone": "Invalid phone number",
+    "requiredPhone": "Please enter your phone number",
+    "requiredFullName": "Please enter your full name",
+    "account": "Account"
+  },
+  "movie": {
+    "nowShowing": "NOW SHOWING",
+    "comingSoon": "Coming Soon",
+    "bookTicket": "Book Ticket",
+    "watchTrailer": "Watch Trailer",
+    "showtimes": "Showtimes",
+    "selectSeats": "Select Seats",
+    "totalPrice": "Total Price",
+    "confirmBooking": "Confirm Booking",
+    "bookingSuccess": "Booking successful!",
+    "genre": "Genre",
+    "actor": "Actor",
+    "minutes": "minutes",
+    "searchResults": "Search Results",
+    "searchingFor": "Searching for",
+    "noResults": "No results found",
+    "tryDifferentSearch": "Please try a different search",
+    "foundResults": "{{count}} results found",
+    "theaterSystem": "Theater System",
+    "theaterCluster": "Theater Cluster",
+    "selectMovie": "Select Movie",
+    "showtime": "Showtime",
+    "showtimeInfo": "Showtime: ",
+    "noShowtime": "No showtimes available",
+    "selectMovieFirst": "Please select a movie first",
+    "selectedSeats": "Selected Seats",
+    "notSelected": "No seats selected",
+    "total": "Total",
+    "currency": "VND",
+    "sold": "Sold",
+    "selected": "Selected",
+    "vipSeat": "VIP Seat",
+    "regularSeat": "Regular Seat",
+    "screen": "Screen",
+    "loadingSeats": "Loading seats...",
+    "noSeats": "No seats available",
+    "backToBooking": "Back to Booking",
+    "pay": "Pay",
+    "paymentSuccess": "Payment Successful!",
+    "selectAgain": "Please select again!",
+    "close": "Close"
+  },
+  "payment": {
+    "paymentMethods": "Payment Methods",
+    "creditCard": "Credit Card",
+    "momo": "MoMo",
+    "bankTransfer": "Bank Transfer",
+    "qrCode": "QR Code",
+    "paymentSuccess": "Payment successful!",
+    "paymentFailed": "Payment failed. Please try again.",
+    "pay": "Pay"
+  },
+  "user": {
+    "myTickets": "My Tickets",
+    "profile": "Profile",
+    "settings": "Settings",
+    "history": "Booking History",
+    "noTickets": "No tickets found",
+    "bookingManagement": "Manage and track your booked tickets"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "manageMovies": "Manage Movies",
+    "manageUsers": "Manage Users",
+    "manageShowtimes": "Manage Showtimes",
+    "statistics": "Statistics",
+    "reports": "Reports"
+  },
+  "footer": {
+    "description": "Modern, fast, and convenient online movie ticket booking system.",
+    "links": "Links",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ",
+    "connect": "Connect with us",
+    "hotline": "Hotline",
+    "email": "Email"
+  },
+  "promotion": {
+    "title": "Promotion"
+  },
+  "about": {
+    "title": "About CineGo",
+    "intro": "CineGo is proud to be one of the leading cinema chains in Vietnam, bringing audiences the best cinematic experiences.",
+    "features": [
+      {
+        "title": "Modern Cinema System",
+        "desc": "CineGo owns more than 50 cinemas nationwide, offering high-quality movie experiences with 4K screens and Dolby Atmos sound."
+      },
+      {
+        "title": "Professional Staff",
+        "desc": "CineGo's staff are well-trained, always ready to serve and support customers with enthusiasm and professionalism."
+      },
+      {
+        "title": "Service Quality",
+        "desc": "Committed to providing high-quality movies, a variety of genres, and always updating the latest films."
+      },
+      {
+        "title": "For the Community",
+        "desc": "CineGo regularly organizes charity activities and special promotions for students."
+      }
+    ],
+    "missionTitle": "CineGo's Mission",
+    "missionDesc": "CineGo is committed to bringing Vietnamese audiences world-class cinematic experiences, contributing to the development of entertainment culture and promoting the national film industry."
+  },
+  "promotions": {
+    "title": "Featured Promotions at CineGo",
+    "list": [
+      {
+        "title": "Buy 2 Get 1 Free",
+        "desc": "Buy any 2 movie tickets at CineGo and get 1 free ticket for your friend or family member.",
+        "time": "Valid until 06/30/2025"
+      },
+      {
+        "title": "30% Off VIP Tickets",
+        "desc": "Enjoy the VIP cinema experience at a special price, only 70%.",
+        "time": "Valid from Monday to Thursday every week"
+      },
+      {
+        "title": "Popcorn Combo Only 49K",
+        "desc": "Buy tickets online at CineGo and get a popcorn + soft drink combo for only 49,000 VND.",
+        "time": "Valid at all CineGo cinemas"
+      }
+    ]
+  },
+  "support": {
+    "title": "CineGo Customer Support",
+    "faqs": [
+      {
+        "q": "How to book tickets online at CineGo?",
+        "a": "Just log in, select a movie, showtime, and seat, then pay online or at the cinema. Tickets will be sent to your email or CineGo account."
+      },
+      {
+        "q": "Can I cancel a booked ticket?",
+        "a": "You can cancel your ticket at least 2 hours before the showtime. The cancellation fee will be applied according to CineGo's policy."
+      },
+      {
+        "q": "Are there any discounts for students?",
+        "a": "CineGo offers special discounts for students with 20% off when presenting a valid student card at the ticket counter."
+      },
+      {
+        "q": "What should I do if I have payment issues?",
+        "a": "Please contact the hotline 1900 1234 or email support@cinego.vn for the fastest support."
+      },
+      {
+        "q": "How to become a CineGo member?",
+        "a": "You can register for a free account on the CineGo website or app to earn points and receive many offers."
+      }
+    ],
+    "hotline": "Hotline:",
+    "email": "Email:",
+    "chat": "Live chat on CineGo website"
+  },
+  "myTickets": {
+    "title": "My Tickets",
+    "subtitle": "Manage and track your booked tickets",
+    "noTicket": "You have no tickets yet",
+    "bookNow": "Book Now",
+    "session": "Showtime",
+    "seat": "Seat(s)",
+    "total": "Total",
+    "bookingDate": "Booking Date",
+    "cancel": "Cancel Ticket",
+    "confirmCancelTitle": "Confirm Ticket Cancellation?",
+    "confirmCancelDesc": "Are you sure you want to cancel the ticket for the movie {{movie}}? This action cannot be undone.",
+    "confirmCancelNo": "No",
+    "confirmCancelYes": "Cancel Ticket",
+    "cancelSuccess": "Ticket cancelled successfully!"
+  },
+  "movieDetail": {
+    "error": "Failed to load data",
+    "notFound": "Movie information not found.",
+    "releaseDate": "Release Date",
+    "trailer": "Watch Trailer",
+    "selectTheater": "Select Theater & Showtime",
+    "theaterSystem": "Theater System",
+    "theaterCluster": "Theater Cluster",
+    "noCluster": "No clusters available",
+    "noShowtime": "No showtimes available"
+  },
+  "listMovie": {
+    "loading": "Loading movies...",
+    "error": "Failed to load movies",
+    "errorDefault": "Unable to load movie list.",
+    "nowShowing": "NOW SHOWING",
+    "pagePrev": "←",
+    "pageNext": "→"
+  },
+  "bestMovie": {
+    "title": "TOP RATED MOVIES"
+  }
+}

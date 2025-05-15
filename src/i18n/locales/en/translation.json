@@ -17,7 +17,8 @@
     "noData": "No data",
     "backToBooking": "Back to Booking",
     "backToHome": "Back to Home",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "admin": "Admin"
   },
   "auth": {
     "email": "Email",

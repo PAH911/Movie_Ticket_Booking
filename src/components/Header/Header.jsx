@@ -131,6 +131,18 @@ export default function Header() {
             >
               {t("common.support")}
             </NavLink>
+            <NavLink
+              to="/admin"
+              className={({ isActive }) =>
+                `font-semibold text-lg px-3 py-2 rounded transition-all duration-200 ${
+                  isActive
+                    ? "text-[#222] bg-white/60 shadow"
+                    : "text-[#222] hover:bg-white/30 hover:shadow"
+                }`
+              }
+            >
+              {t("common.admin")}
+            </NavLink>
           </nav>
 
           <div className="flex items-center gap-4">

@@ -17,7 +17,8 @@
     "noData": "Không có dữ liệu",
     "backToBooking": "Quay lại đặt vé",
     "backToHome": "Quay về trang chủ",
-    "loading": "Đang tải..."
+    "loading": "Đang tải...",
+    "admin": "Quản trị"
   },
   "auth": {
     "email": "Email",
